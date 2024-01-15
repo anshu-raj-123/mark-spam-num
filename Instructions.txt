@@ -1,0 +1,21 @@
+1. Extract the Code:
+    It's a .zip file, you can extract it by right-clicking.
+
+2. Environment Variables:
+    This code uses environment variables for sensitive information like database password and secret key.
+    Set the environment variables before running the code:
+    DB_PASSWORD=your_database_password
+    SECRET_KEY=your_secret_key
+
+
+3. Install Dependencies:
+    Open a command prompt in the code folder.
+    Run npm install to install project dependencies.
+
+4. Run the Code:
+    Run the command to start the code `node app.js`.
+
+5. Access the Server:
+    Once the server is running, open a web browser and go to http://localhost:3000 
+    The provided functionalities are registration,login,spam and search through the APIs.
+

@@ -1,5 +1,4 @@
 1. Extract the Code:
-    It's a .zip file, you can extract it by right-clicking.
 
 2. Environment Variables:
     This code uses environment variables for sensitive information like database password and secret key.
